@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Verdana';
     margin: 0;
     padding: 0;
     /* background-color: #f4f4f4; */
@@ -17,29 +17,48 @@ p {
     text-align: center;
     position: relative;
 }
+
 .header h1 {
     margin: 0;
     font-size: 2.5em;
 }
+
 .nav {
     margin: 20px 0;
 }
+
 .nav a {
     color: white;
     text-decoration: none;
     margin: 0 15px;
     font-size: 1.2em;
     padding: 10px 20px;
-    background-color: #555;
-    border-radius: 5px;
+    background-color: #265890;
+    border-radius: 7px;
     transition: background-color 0.3s ease;
 }
-.nav a:hover {
-    background-color: #777;
+
+@media (max-width: 600px) {
+    .nav {
+        margin: 0px 0;
+    }
+    
+    .nav a {
+        margin: 5px 15px;
+        font-size: 1.2em;
+        display: block;
+        align-items: center;
+        }
 }
+
+.nav a:hover {
+    background-color: #4597f8;
+}
+
 .container {
     text-align: center;
 }
+
 .content {
     margin: 10px auto;
     max-width: 800px;
@@ -51,34 +70,44 @@ p {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
+
 .content h2 {
     color: #333;
     font-size: 2em;
 }
+
 .content p {
     color: #666;
     font-size: 1.2em;
     line-height: 1.6;
 }
+
 .brother-section {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin: 40px 0;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 .brother {
     text-align: center;
 }
+
 .brother img {
     border-radius: 50%;
     width: 150px;
     height: 150px;
     object-fit: cover;
 }
+
 .brother h3 {
     color: #333;
     font-size: 1.8em;
     margin-top: 15px;
 }
+
 .brother p {
     color: #666;
     font-size: 1em;
