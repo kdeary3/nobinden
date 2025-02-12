@@ -5,8 +5,9 @@ We are three brothers, Keno, Korbin, and Kasden, who share a deep passion for te
 
 
 Next steps:
-- DNS - nobinden.io, keno@nobinden, korbin@nobinden, kasden@nobinden
-- Logo - Fiverr, Logoinn
+- [x] DNS - nobinden.com
+- [] email server: keno@nobinden.com, korbin@nobinden.com, kasden@nobinden.com
+- [x] Logo - Fiverr, Logoinn
     - This logo is for the "nobinden Foundation". We primarily do investing in tech startups. However, would like to broaden out more to media, finance,  leadership. The founders are 3 brothers.
     - The name "nobinden" is derived from the last few letters of each of our names: Ke**NO**, Kor**BIN**, and Kas**DEN**. It also carries the hidden meaning of "no bending," symbolizing the unbreakable bond we share as brothers.
 
@@ -14,14 +15,6 @@ Next steps:
     - We would also like to play around with the idea of stacking no, bin, den in a square. 
     - Perferably we would like to use cooler pastel tones, like blue and grey.
     - Some examples of what we would like to emulate: Y-Combinator, Sequoia Capital, Andreesen Horowitz
-
-
-- We invest small amounts in pre-seed, lean tech startups that are building the future. 
-- Send us your pitch deck
-
-Our Founders, Portfolio, Projects, contact
-
-
 
 Application:
 About the Startup
@@ -51,6 +44,3 @@ Miscellaneous
 Closing Questions
 23. Why do you think your startup is a great fit for our venture fund?
 24. What additional support (besides funding) do you need from investors?
-
-
-
