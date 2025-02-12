@@ -8,7 +8,7 @@ Next steps:
 - DNS - nobinden.io, keno@nobinden, korbin@nobinden, kasden@nobinden
 - Logo - Fiverr, Logoinn
     - This logo is for the "nobinden Foundation". We primarily do investing in tech startups. However, would like to broaden out more to media, finance,  leadership. The founders are 3 brothers.
-    - The name "nobinden" is derived from the last few letters of each of our names: KeNO, KorBIN, and KasDEN. It also carries the hidden meaning of "no bending," symbolizing the unbreakable bond we share as brothers.
+    - The name "nobinden" is derived from the last few letters of each of our names: Ke**NO**, Kor**BIN**, and Kas**DEN**. It also carries the hidden meaning of "no bending," symbolizing the unbreakable bond we share as brothers.
 
     - We would like the logo to be modern, futuristic and simple. 
     - We would also like to play around with the idea of stacking no, bin, den in a square. 
