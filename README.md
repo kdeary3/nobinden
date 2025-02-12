@@ -5,16 +5,16 @@ We are three brothers, Keno, Korbin, and Kasden, who share a deep passion for te
 
 
 Next steps:
-[x] DNS - nobinden.com
-[] email server: keno@nobinden.com, korbin@nobinden.com, kasden@nobinden.com
-[x] Logo - Fiverr, Logoinn
-- This logo is for the "nobinden Foundation". We primarily do investing in tech startups. However, would like to broaden out more to media, finance,  leadership. The founders are 3 brothers.
-- The name "nobinden" is derived from the last few letters of each of our names: Ke**NO**, Kor**BIN**, and Kas**DEN**. It also carries the hidden meaning of "no bending," symbolizing the unbreakable bond we share as brothers.
+- [x] DNS - nobinden.com
+- [ ] email server: keno@nobinden.com, korbin@nobinden.com, kasden@nobinden.com
+- [x] Logo - Fiverr, Logoinn
+    - This logo is for the "nobinden Foundation". We primarily do investing in tech startups. However, would like to broaden out more to media, finance,  leadership. The founders are 3 brothers.
+    - The name "nobinden" is derived from the last few letters of each of our names: Ke**NO**, Kor**BIN**, and Kas**DEN**. It also carries the hidden meaning of "no bending," symbolizing the unbreakable bond we share as brothers.
 
-- We would like the logo to be modern, futuristic and simple. 
-- We would also like to play around with the idea of stacking no, bin, den in a square. 
-- Perferably we would like to use cooler pastel tones, like blue and grey.
-- Some examples of what we would like to emulate: Y-Combinator, Sequoia Capital, Andreesen Horowitz
+    - We would like the logo to be modern, futuristic and simple. 
+    - We would also like to play around with the idea of stacking no, bin, den in a square. 
+    - Perferably we would like to use cooler pastel tones, like blue and grey.
+    - Some examples of what we would like to emulate: Y-Combinator, Sequoia Capital, Andreesen Horowitz
 
 Application:
 About the Startup
